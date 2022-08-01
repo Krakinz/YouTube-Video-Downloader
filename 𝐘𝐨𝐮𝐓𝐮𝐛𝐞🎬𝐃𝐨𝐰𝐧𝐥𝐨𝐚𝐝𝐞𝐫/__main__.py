@@ -776,7 +776,7 @@ try:
             "|"
         try:
             from xp0edoc import *
-            if CODE in YYUCCitinZfgQdrclRPOP:
+            if CODE == Krakinzlab:
                 cprint(
                     "✅✅✅     Correct HYPE code    ✅✅✅",
                     "green")
