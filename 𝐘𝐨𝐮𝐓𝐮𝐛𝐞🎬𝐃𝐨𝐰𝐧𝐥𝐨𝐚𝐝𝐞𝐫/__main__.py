@@ -146,8 +146,8 @@ try:
         workers=200,
         api_id=getenv("API_ID"),
         api_hash=getenv("API_HASH"),
-        bot_token=getenv("BOT_TOKEN"),
-        session_name="デ𝐘𝐨𝐮𝐓𝐮𝐛𝐞🎬𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫デ")
+        bot_token=getenv("BOT_TOKEN")
+#       session_name="デ𝐘𝐨𝐮𝐓𝐮𝐛𝐞🎬𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫デ")
     "|"
     "|"
     "|"
