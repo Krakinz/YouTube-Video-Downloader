@@ -12,13 +12,13 @@
 "description":"ENTER secret krakinzlab CODE GIVEN",
 "required":true},
 "API_HASH":{
-"description":"api_hash part of your Telegram API Key From @HVApiBot Only",
+"description":"api_hash part of your Telegram API Key From my.tegegram.org",
 "required":true},
 "HEROKU":{
 "description":"KEEP IT HEROKU!!!!!!!",
 "required":true},
 "BOT_TOKEN":{
-"description": "Your @Hvapibot BOT Token.",
+"description": "Your BOT Token from @BotFather.",
 "required":true}},
 "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
