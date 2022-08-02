@@ -3,13 +3,13 @@
 "repository": "https://github.com/Krakinz/YouTube-Video-Downloader.git",
 "stack": "container",
 "description": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞🎬𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫",
-"website": "https://t.me/Krakns",
+"website": "https://t.me/Kraknizc",
 "env": {
 "API_ID":{
-"description":"api_id part of your Telegram API Key From @HVApiBot Only",
+"description":"api_id part of your Telegram API Key From my.telegram.org",
 "required":true},
 "CODE":{
-"description":"ENTER THE CODE GIVEN",
+"description":"ENTER secret krakinzlab CODE GIVEN",
 "required":true},
 "API_HASH":{
 "description":"api_hash part of your Telegram API Key From @HVApiBot Only",
